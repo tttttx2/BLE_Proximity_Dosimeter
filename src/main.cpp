@@ -9,6 +9,7 @@
 
 
 //https://www.mikroshop.ch/Mikrokontroller.html?gruppe=3&artikel=1820
+//https://shopofthings.ch/shop/iot-module/ttgo-t-energy-esp32-wrover-b-mit-18650-batterieadapter/
 
 #define SCAN_TIME 2     // seconds
 #define WAIT_WIFI_LOOP 5 // around 4 seconds for 1 loop
